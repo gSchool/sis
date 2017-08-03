@@ -50,6 +50,6 @@ $ npm test
 
 Tests must pass for PR to be considered.
 
-The unit tests are written with Mocha and Chai and run with Karma.
+The unit tests are written with Tape.
 
-The e2e tests are run on headless Chrome.
+<!-- The e2e tests are run on headless Chrome. ==>
